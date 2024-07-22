@@ -10,3 +10,4 @@
 - npm install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/bottom-tabs
 - npm install react-native-linear-gradient# Instagram_App_Mobil
+![instagram](https://github.com/user-attachments/assets/19deab7c-5e07-4815-a763-e03b7deecc6a)
